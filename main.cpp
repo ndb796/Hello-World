@@ -4,5 +4,6 @@ using namespace std;
 
 int main(void) {
   cout << "Hello World!" << '\n';
+  cout << "Hello World!" << '\n';
   return 0;
 }
